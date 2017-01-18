@@ -1,2 +1,2 @@
 # factorial
-find factorial of n
+find factorial of n with C#
