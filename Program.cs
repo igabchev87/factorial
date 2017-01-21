@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-
+            // :)
             int num = 0, factorial = 0, counter = 0;
             Console.Write("n= ");
             num = Convert.ToInt32(Console.ReadLine());
